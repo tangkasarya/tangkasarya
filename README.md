@@ -3,7 +3,7 @@
 
 ## Hello, Saye Tangkas Arya 🙌
 
-![Tangkas Arya](img\github-header-banner.png)
+![Tangkas Arya](img/github-header-banner.png)
 
 - 🎓 **Informatics Engineering Student**  
 - 💻 Passionate in **Web, Mobile Development & Data Analysis**  
