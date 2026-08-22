@@ -1,7 +1,7 @@
 
 
 
-## Hello, Saye Tangkas Arya 🙌
+## Hello, I am Tangkas Arya 🙌
 
 ![Tangkas Arya](img/github-header-banner.png)
 
